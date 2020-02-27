@@ -1,6 +1,9 @@
-NBA player stats visualization developed with React App
+## NBA player stats visualization developed with React App
 
 Link: https://nba-visualization.firebaseapp.com/
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
